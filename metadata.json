@@ -1,0 +1,8 @@
+{
+  "name": "Paper Rocket Scroll Experience",
+  "description": "A minimalist, scroll-driven hero animation featuring a 3D paper rocket navigating through typography for a premium creative studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
